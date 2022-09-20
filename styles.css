@@ -7,7 +7,7 @@ body {
 
 header {
     margin: 20px 0;
-    font-size: 25px;
+    font-size: 22px;
     text-align: center;
 }
 
@@ -16,11 +16,15 @@ section.introheader {
     padding: 15px
 }
 
+img + p {
+    font-size: 32px;
+}
+
 a {
     color:cornflowerblue;
 }
 
-h2 {
+h2.subheading {
     color:darkmagenta;
 }
 
