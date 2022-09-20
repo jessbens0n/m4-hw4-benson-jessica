@@ -1,6 +1,6 @@
 body {
     background-color: beige;
-    color:darkmagenta;
+    color:black;
     max-width: 900px;
     margin: auto;
 }
@@ -20,8 +20,12 @@ a {
     color:cornflowerblue;
 }
 
-p, li {
-    color: black;
+h2 {
+    color:darkmagenta;
+}
+
+h1, h2 {
+    text-align: left;
 }
 
 aside nav a {
