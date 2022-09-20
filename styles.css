@@ -20,11 +20,7 @@ a {
     color:cornflowerblue;
 }
 
-p {
-    color: black;
-}
-
-li {
+p, li {
     color: black;
 }
 
